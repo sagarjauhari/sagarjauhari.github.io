@@ -1,4 +1,4 @@
 sagarjauhari.github.io
 ======================
 
-User page
+Sagar Jauhari's github blog
