@@ -12,16 +12,16 @@ owner:
   bio:            "Programmer | Dreamer | Creator"
   email:          your@email.com
   # Social networking links are used in author-bio sidebar. Update and remove as you like.
-  twitter:
+  twitter:        sagarjauhari
   facebook:       sagarjauhari
   github:         sagarjauhari
   stackoverflow:
   linkedin:
-  instagram:
+  instagram:      sagarjauhari
   lastfm:
   tumblr:
-  pinterest:
-  foursquare:
+  pinterest:      sagarjauhari
+  foursquare:     sagarjauhari
   steam:
   dribbble:
   # For Google Authorship https://plus.google.com/authorship
@@ -40,6 +40,9 @@ links:
     url: /about/
   - title: Posts
     url: /posts/
+  - title: BCIpy
+    url: http://bcipy.org
+    external: true
 #  - title: Theme Setup
 #    url: /theme-setup/
 #  - title: Made Mistakes
