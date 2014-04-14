@@ -1,8 +1,9 @@
-title:            For i in espresso
+title:            For i in Espresso
 description:      Sagar's Musings
 
 # Your site's domain goes here. Leave localhost server or blank when working locally.
-url:              http://sagarjauhari.github.io
+#url:              http://sagarjauhari.github.io
+url:              http://localhost:4000
 disqus_shortname:
 
 # Owner/author information
@@ -43,6 +44,8 @@ links:
   - title: BCIpy
     url: http://bcipy.org
     external: true
+  - title: Food
+    url: /food/
 #  - title: Theme Setup
 #    url: /theme-setup/
 #  - title: Made Mistakes
