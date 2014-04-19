@@ -11,4 +11,7 @@ image:
 comments:
 share:
 ---
-<script src="https://gist.github.com/sagarjauhari/10698214.js"></script>
+
+This python code imports your blogger/blogspot posts and writes them down in jekyll format.
+
+{% gist 10698214 %}
