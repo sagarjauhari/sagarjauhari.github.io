@@ -11,7 +11,7 @@ owner:
   name:           Sagar Jauhari
   avatar:         bio-photo.jpg
   bio:            "Programmer | Dreamer | Creator"
-  email:          your@email.com
+  #email:          your@email.com
   # Social networking links are used in author-bio sidebar. Update and remove as you like.
   twitter:        sagarjauhari
   facebook:       sagarjauhari
@@ -48,6 +48,8 @@ links:
     url: /food/
   - title: Music
     url: /music/
+  - title: Projects
+    url: /projects/
 #  - title: Theme Setup
 #    url: /theme-setup/
 #  - title: Made Mistakes
@@ -79,3 +81,37 @@ kramdown:
 
 include: [".htaccess"]
 exclude: ["lib", "config.rb", "Capfile", "config", "log", "Rakefile", "Rakefile.rb", "tmp", "less", "*.sublime-project", "*.sublime-workspace", "test", "spec", "Gruntfile.js", "package.json", "node_modules"]
+
+# Projects (till I move them to a new file)
+projects:
+  - title: BCIpy
+    img_url: /images/proj_anomaly.png
+    github_repo: graph_anomaly_detect
+    nbviewer: http://nbviewer.ipython.org/github/sagarjauhari/graph_mining/blob/master/L1.ipynb
+    description: Anomaly detection in time series graphs 
+  - title: Anomaly Detection in graphs
+    img_url: /images/proj_anomaly.png
+    github_repo: graph_anomaly_detect
+    nbviewer: http://nbviewer.ipython.org/github/sagarjauhari/graph_mining/blob/master/L1.ipynb
+    description: Anomaly detection in time series graphs 
+  - title: Anomaly Detection in graphs
+    img_url: /images/proj_anomaly.png
+    github_repo: graph_anomaly_detect
+    nbviewer: http://nbviewer.ipython.org/github/sagarjauhari/graph_mining/blob/master/L1.ipynb
+    description: Anomaly detection in time series graphs 
+  - title: Anomaly Detection in graphs
+    img_url: /images/proj_anomaly.png
+    github_repo: graph_anomaly_detect
+    nbviewer: http://nbviewer.ipython.org/github/sagarjauhari/graph_mining/blob/master/L1.ipynb
+    description: Anomaly detection in time series graphs 
+  - title: Anomaly Detection in graphs
+    img_url: /images/proj_anomaly.png
+    github_repo: graph_anomaly_detect
+    nbviewer: http://nbviewer.ipython.org/github/sagarjauhari/graph_mining/blob/master/L1.ipynb
+    description: Anomaly detection in time series graphs 
+#  - title: 
+#    img_url:
+#    website: 
+#    github_repo:
+#    nbviewer:
+#    description:
