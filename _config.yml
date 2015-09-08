@@ -44,10 +44,10 @@ links:
   - title: BCIpy
     url: http://bcipy.org
     external: true
-  - title: Food
-    url: /food/
-  - title: Music
-    url: /music/
+  # - title: Food
+  #   url: /food/
+  # - title: Music
+  #   url: /music/
   - title: Projects
     url: /projects/
 
