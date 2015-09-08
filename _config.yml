@@ -79,10 +79,9 @@ exclude: ["lib", "config.rb", "Capfile", "config", "log", "Rakefile", "Rakefile.
 
 # Projects (till I move them to a new file)
 projects:
-  - title: BCIpy
+  - title: Anomaly detection in time series graphs
     img_url: /images/proj_anomaly.png
     github_repo: graph_anomaly_detect
-    nbviewer: http://nbviewer.ipython.org/github/sagarjauhari/graph_mining/blob/master/L1.ipynb
     description: Anomaly detection in time series graphs 
 #  - title: 
 #    img_url:
